@@ -30,11 +30,11 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "ACCESSTOKEN": "EAAD6V7os0gcBO6yzQT7wxFunUfEUn8k2nFBCOAcE8l8ViYyY7pqFXZBN0Nf6NI0BryZBDCvvKJlwoaobMJHZBlrhAE9WY1LvSRrZAMhOr5yxEZCUEyAZAG5zt7KbifrIiR6G5XMeHHnzKiH2vZAYOWZCZCZAvC61iw9IZA9bmtprfQSzmx242GQmsTJP6yGkwZDZD",
-    "BOTNAME": "Bot tnt",
+    "ACCESSTOKEN": "EAAGNO4a7r2wBO7t5ekAIuSEIjEZAZCynXkZBZClSyJCtOpILe3XUnfFLJOEdd4Q1u8n2a2r8bAlSIFk1BMAZBvTKCJpKY4FGVvqCEiuuW7QgduX0wYNSUVQZBaaQaX4QtO5Sv3ajwnsRVBF6CkiPE4AMXGqYq870GvPZAG3UOUSNNhLFJUR5OjS8O48UwZDZD",
+    "BOTNAME": "Ng The Vinh",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100090168070553",
+        "100049295615990",
         "",
         "",
         "",
@@ -44,7 +44,7 @@
         ""
     ],
     "NDH": [
-        ""
+        "100049295615990"
     ],
     "DATABASE": {
         "sqlite": {
